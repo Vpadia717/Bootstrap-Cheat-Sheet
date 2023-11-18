@@ -1278,7 +1278,7 @@ Breadcrumbs are a navigation aid that provides users with a trail of links, typi
 
 ## License
 
-This repository is licensed under the [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) [MIT License](https://choosealicense.com/licenses/mit/), ensuring flexibility and freedom for developers to use, modify, and distribute the content.
+This repository is licensed under the [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) [MIT License](LICENSE), ensuring flexibility and freedom for developers to use, modify, and distribute the content.
 
 Feel free to explore, contribute, and enhance your Bootstrap skills with this comprehensive cheat sheet.
 
