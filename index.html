@@ -2730,8 +2730,8 @@
       <footer
         class="d-flex justify-content-between align-items-center py-3 my-4 border-top"
       >
-        <p class="mx-3">
-          © 2023
+        <p id="year" class="mx-3">
+          © <span id="currentYear"></span>
           <a
             href="https://vpadia717.github.io/VDevStack/"
             target="_blank"
@@ -2762,5 +2762,9 @@
         </p>
       </footer>
     </div>
+    <script>
+      document.getElementById("currentYear").textContent =
+        new Date().getFullYear();
+    </script>
   </body>
 </html>
